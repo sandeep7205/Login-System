@@ -1,0 +1,10 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:x="urn:schemas-microsoft-com:office:word"
+            xmlns="http://www.w3.org/TR/REC-html40">
+
+            <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+            <html>
+            <head>
+                <meta http-equiv="Content-type" content="text/html;charset=utf-8" />
+            </head>
+            <body><h1>Database loginsystem</h1><h2>Table structure for table user</h2><table class="pma-table w-100" cellspacing="1"><tr class="print-category"><th class="print">Column</th><td class="print"><strong>Type</strong></td><td class="print"><strong>Null</strong></td><td class="print"><strong>Default</strong></td></tr><tr class="print-category"><td class="print"><em><strong>slno</strong></em></td><td class="print">int(11)</td><td class="print">No</td><td class="print"></td></tr><tr class="print-category"><td class="print">name</td><td class="print">varchar(30)</td><td class="print">No</td><td class="print"></td></tr><tr class="print-category"><td class="print"><strong>email</strong></td><td class="print">varchar(30)</td><td class="print">No</td><td class="print"></td></tr><tr class="print-category"><td class="print">password</td><td class="print">varchar(255)</td><td class="print">No</td><td class="print"></td></tr><tr class="print-category"><td class="print">gender</td><td class="print">varchar(11)</td><td class="print">No</td><td class="print"></td></tr><tr class="print-category"><td class="print">time</td><td class="print">datetime</td><td class="print">No</td><td class="print">current_timestamp()</td></tr></table><h2>Dumping data for table user</h2><table class="pma-table w-100" cellspacing="1"><tr class="print-category"><td class="print">20</td><td class="print">sandeep</td><td class="print">sandeep@gmail.com</td><td class="print">$2y$10$7VJXddpO7ge.InIMerc6POLfAPeQYBxVk.jnlsuay1N/IPTd1dl7i</td><td class="print">male</td><td class="print">2021-06-06 14:24:25</td></tr></table></body></html>
